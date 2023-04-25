@@ -3,3 +3,4 @@ config.ini
 env
 __pycache__
 src/experiments/
+src/data/*
